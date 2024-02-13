@@ -1,0 +1,3 @@
+// The program input for hello/src/main.leo
+[main]
+public term: u32 = 12u32;
